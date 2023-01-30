@@ -1,0 +1,4 @@
+**/*~undo-tree~
+build/
+compile_commands.json
+.cache/
